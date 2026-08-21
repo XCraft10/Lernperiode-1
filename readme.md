@@ -4,7 +4,7 @@
 
 ## Grob-Planung
 
-1. In der ersten Lehrperiode möchte ich ein 
+In der ersten Lehrperiode möchte ich ein Projekt machen um mit dem Gewicht und der höhe den richtigen **stock** mit dem richtigen Flex für das Eishockey zu Bestimmen
 
 ## 28.8.2026
 
