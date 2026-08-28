@@ -8,13 +8,13 @@ In der ersten Lehrperiode möchte ich ein Projekt machen um mit dem Gewicht und 
 
 ## 28.8.2026
 
-✍️ Heute habe ich die Aufträge zu md gemacht und mich auf github angemeldet
+Heute habe ich mit dem ***Flexberechnungsprogramm*** Gestartet
 
 ## 6.9.2026
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Eine eingabe findem um mehr als **2 kommastellen** abzuspeichern
+- [ ] Die Formel zur berechgnung des flex finden und ins programm einfügen
+- [ ] falsche antworten erkennen
 
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
