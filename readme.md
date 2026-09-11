@@ -7,14 +7,17 @@ In der ersten Lehrperiode möchte ich ein Projekt machen um mit dem Gewicht und 
 
 ## 4.9.2026
 
-Heute habe ich das programm fertig gemacht das es funktioniert
+Heute habe ich das programm verbessert
 
-## 11.9.2026
+## Hausaufgaben
 
-- [ ] Buggs suchen im programm
-- [ ] Verbesserungen suchen für das programm
-- [ ] Verbesserungen umsetzen
-- [ ] Neues Projekt Suchen
+- [ ] Den Flex auf 5 Runden
+
+## 18.9.2026
+
+- [ ] Switch Lernen
+- [ ] Switch state in den code einbringen
+- [ ] Nach neuen bugs suchen
 
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
