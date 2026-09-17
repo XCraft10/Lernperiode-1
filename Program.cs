@@ -71,16 +71,11 @@ do
         double Flex2 = (Weight - 25) / Flex1;
         double Flex3 = 20 + 85 * (1 - Math.Exp(-1 * Flex2));
 
-        //                                                      |||||||||
-        //  Auf 5 runden                                        |||||||||
-        //                                                      |||||||||
-        //                                                      |||||||||
-        //                                                      |||||||||
-        //                                                      |||||||||
-        //                                                      
-        //                                                         /#\
-        //                                                        <###>
-        //                                                         \#/
+        Console.WriteLine(Flex3);
+
+        Flex3 = Math.Round (Flex3 / 5)* 5;
+
+
         FlexGesucht = +1;
         Console.WriteLine("Den richtigen Flex für dich ist " + Flex3 + " !");
         Console.WriteLine("Wollen sie noch einen Flex ausrechnen ?");
