@@ -11,7 +11,7 @@ Heute habe ich das programm verbessert
 
 ## Hausaufgaben
 
-- [ ] Den Flex auf 5 Runden
+- [x] Den Flex auf 5 Runden
 
 ## 18.9.2026
 
